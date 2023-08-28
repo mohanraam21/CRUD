@@ -11,10 +11,7 @@ router.post("/", (req, res) => {
 
 
     let obj = {
-        p_id: req.body.p_id
-
-
-    }
+        p_id: req.body.p_id}
 
 
     //connect to mongodb

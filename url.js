@@ -1,1 +1,1 @@
-module.exports=`mongodb://localhost:27017/`
+module.exports=`mongodb://0.0.0.0:27017/pokemon`
